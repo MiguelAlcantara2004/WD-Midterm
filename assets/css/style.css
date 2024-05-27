@@ -1,0 +1,39 @@
+*{
+    margin: 10px;
+}
+
+.container *,.container{
+    background-color: rgb(238, 207, 207);
+
+}
+
+.container{
+    display: flex;
+    justify-content: end
+}
+.header{
+    margin-top: -40px;
+    margin-bottom: 50px;
+}
+.left{
+    margin-left:800px;
+    margin-bottom: 10px;
+}
+.Creative{
+    margin-left: 810px;
+}
+.agency{
+    margin-left: 810px;
+}
+.class2{
+    margin-bottom: 800px;
+    margin-left: 800px;
+}
+.buttons .btn{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 100px;
+    
+}
+
